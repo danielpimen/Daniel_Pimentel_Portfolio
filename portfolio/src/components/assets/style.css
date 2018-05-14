@@ -1,0 +1,57 @@
+.frontPic1 {
+  display: block;
+  width: 22%;
+  margin-bottom: 2rem;
+  float: left;
+  margin-left: 25%;
+  margin-right: 5rem;
+  height: 45rem;
+}
+
+.frontPic2 {
+  display: block;
+  width: 22%;
+  margin-bottom: 2rem;
+  float: left;
+  margin-left: 2rem;
+  margin-right: 25%;
+  height: 45rem;
+}
+
+.portfolioPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  margin-bottom: 2rem;
+}
+
+.header {
+  margin-left: 4rem;
+  color: white;
+  margin-bottom: 3rem;
+}
+
+body {
+  background-image: url('./background.png');
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.bodyText {
+  background-color: #f5f5dc;
+  margin: 3rem 5rem 0rem 5rem;
+  padding: 1rem 1rem 1rem 1rem;
+  float: left;
+}
+
+h4 {
+  color: black;
+  padding: 1rem 1rem 1rem 1rem;
+  background-color: whitesmoke;
+}
+.portfolioText {
+  background-color: whitesmoke;
+  padding: 1rem 1rem 1rem 1rem;
+}
