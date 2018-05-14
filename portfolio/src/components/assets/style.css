@@ -55,3 +55,9 @@ h4 {
   background-color: whitesmoke;
   padding: 1rem 1rem 1rem 1rem;
 }
+
+.logo {
+  height: 5rem;
+  width: 5rem;
+  align-content: center;
+}
