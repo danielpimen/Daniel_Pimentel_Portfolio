@@ -3,9 +3,8 @@ import '../assets/style.css';
 
 const Learn = () => (
   <div>
-    <h1 className="text-center">hello</h1>
     <p>
-      <img src={require('../assets/daniel.jpg')} className="portfolioPic" />
+      <img src={require('../assets/resume.png')} className="portfolioPic" />
     </p>
   </div>
 );

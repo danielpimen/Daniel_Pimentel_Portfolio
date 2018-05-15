@@ -58,6 +58,18 @@ h4 {
 
 .logo {
   height: 5rem;
+  margin: 1rem 1rem 1rem 1rem;
   width: 5rem;
-  align-content: center;
+}
+
+.resumePic {
+  height: 20rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+
+.check {
+  color: white;
 }
